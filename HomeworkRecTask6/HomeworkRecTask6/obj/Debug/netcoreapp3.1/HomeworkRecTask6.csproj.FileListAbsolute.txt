@@ -1,0 +1,11 @@
+C:\Users\Elgiz\source\repos\HomeworkRecTask6\HomeworkRecTask6\bin\Debug\netcoreapp3.1\HomeworkRecTask6.exe
+C:\Users\Elgiz\source\repos\HomeworkRecTask6\HomeworkRecTask6\bin\Debug\netcoreapp3.1\HomeworkRecTask6.deps.json
+C:\Users\Elgiz\source\repos\HomeworkRecTask6\HomeworkRecTask6\bin\Debug\netcoreapp3.1\HomeworkRecTask6.runtimeconfig.json
+C:\Users\Elgiz\source\repos\HomeworkRecTask6\HomeworkRecTask6\bin\Debug\netcoreapp3.1\HomeworkRecTask6.runtimeconfig.dev.json
+C:\Users\Elgiz\source\repos\HomeworkRecTask6\HomeworkRecTask6\bin\Debug\netcoreapp3.1\HomeworkRecTask6.dll
+C:\Users\Elgiz\source\repos\HomeworkRecTask6\HomeworkRecTask6\bin\Debug\netcoreapp3.1\HomeworkRecTask6.pdb
+C:\Users\Elgiz\source\repos\HomeworkRecTask6\HomeworkRecTask6\obj\Debug\netcoreapp3.1\HomeworkRecTask6.csprojAssemblyReference.cache
+C:\Users\Elgiz\source\repos\HomeworkRecTask6\HomeworkRecTask6\obj\Debug\netcoreapp3.1\HomeworkRecTask6.AssemblyInfoInputs.cache
+C:\Users\Elgiz\source\repos\HomeworkRecTask6\HomeworkRecTask6\obj\Debug\netcoreapp3.1\HomeworkRecTask6.AssemblyInfo.cs
+C:\Users\Elgiz\source\repos\HomeworkRecTask6\HomeworkRecTask6\obj\Debug\netcoreapp3.1\HomeworkRecTask6.dll
+C:\Users\Elgiz\source\repos\HomeworkRecTask6\HomeworkRecTask6\obj\Debug\netcoreapp3.1\HomeworkRecTask6.pdb
